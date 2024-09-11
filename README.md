@@ -14,8 +14,6 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ## My velog [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gumji)](https://velog.io/@gumji)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gumji)](https://github.com/@gumji/velog-readme-stats)
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gumji)](https://velog.io/@gumji)
 
 <!---
