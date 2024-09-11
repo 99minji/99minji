@@ -1,7 +1,8 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&width=435&lines=Hi%2C+I'm+Guminji.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&width=435&lines=Hi%2C+I'm+Guminji.)](https://git.io/typing-svg) 🖐️
 
 ### [![GitHub Streak](https://streak-stats.demolab.com?user=99minji&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+### My skill Stack ⚡
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
