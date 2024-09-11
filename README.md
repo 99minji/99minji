@@ -16,6 +16,8 @@
 ## My velog [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gumji)](https://velog.io/@gumji)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gumji)](https://github.com/@gumji/velog-readme-stats)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gumji)](https://velog.io/@gumji)
+
 <!---
 99minji/99minji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
