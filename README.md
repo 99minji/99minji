@@ -4,6 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99minji)](https://github.com/99minji/github-readme-stats)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gumji)](https://velog.io/@gumji)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gumji&tag=react)](https://github.com/gumji/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gumji&tag=javascript)](https://github.com/gumji/velog-readme-stats)
+
 
 - 👋 Hi, I’m @99minji
 - 👀 I’m interested in
