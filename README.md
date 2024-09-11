@@ -1,10 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Minji%20Github!&fontSize=90)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99minji)](https://github.com/99minji/github-readme-stats)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gumji)](https://velog.io/@gumji)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=gumji)](https://velog.io/@gumji)
+[![GitHub Streak](https://streak-stats.demolab.com?user=99minji&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 - 👋 Hi, I’m @99minji
 - 👀 I’m interested in
