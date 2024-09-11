@@ -3,6 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99minji)](https://github.com/99minji/github-readme-stats)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gumji)](https://velog.io/@gumji)
+
 - 👋 Hi, I’m @99minji
 - 👀 I’m interested in
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
