@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&width=435&lines=Hi%2C+I'm+Guminji.)](https://git.io/typing-svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=99minji&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 - 👋 Hi, I’m @99minji
