@@ -32,31 +32,12 @@
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-### Selected Work
 
-**01 · Parent Community — React Native / TypeScript**  
-학부모 커뮤니티 신규 구축에 참여해 **35개 화면과 48개 컴포넌트**를 개발했습니다.  
-사용자 권한, 동네 인증, 신고·제재 정책처럼 여러 화면에 영향을 주는 규칙을 Zustand와 커스텀 훅으로 구조화했습니다.
-
-**02 · Backoffice Modernization — React / TypeScript / TanStack**  
-React 16·MobX·jQuery 기반 관리자 웹을 React 19 기반으로 이관했습니다.  
-목록 액션, 입력 폼, 검색 조건 유지, 오류 시 재조회 등 운영상의 반복 문제를 공통 UI와 데이터 처리 구조에서 개선했습니다.
-
-**03 · Art Gallery & Support — React Native / React Query**  
-기존 앱에 조부모 역할과 작품 감상·후원 흐름을 확장했습니다.  
-여러 API 응답에 의존하는 후원 조건을 순수 함수로 분리하고 **14개 단위 테스트**로 검증했습니다. AI 콘텐츠 생성 상태와 결제 WebView 복귀 흐름도 구현했습니다.
-
-### Beyond Work
-
-**릉릉 — 경주 관광 탐색 앱 · 공모전 팀 프로젝트**  
-React Native와 Expo로 관광지 탐색, 날씨 기반 추천, 지도 기능을 구현했습니다. 공공 API의 데이터 누락 원인을 분석해 반경 1km 내 관광지 노출을 **15건에서 33건으로 개선**했고, 실기기 디버깅과 앱 출시 과정에 참여했습니다.
-
-더 자세한 프로젝트와 구현 과정은 **[Portfolio](https://guminji-portfolio.vercel.app/)** 에 정리해 두었습니다.
+자세한 프로젝트와 구현 과정은 **[Portfolio](https://guminji-portfolio.vercel.app/)** 에 정리해 두었습니다.
 
 ---
 
 ### Connect
 
 - **Portfolio** — https://guminji-portfolio.vercel.app/
-- **Tech Blog** — https://frontend-gumji.tistory.com/
 - **Email** — [rnalswl96@naver.com](mailto:rnalswl96@naver.com)
