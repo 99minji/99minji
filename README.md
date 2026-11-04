@@ -6,7 +6,7 @@
 
 운영 중인 서비스의 새로운 기능을 구축하고, 반복되는 문제를 공통 컴포넌트와 재사용 가능한 로직으로 개선해 왔습니다.
 
-[Portfolio](https://guminji-portfolio.vercel.app/) · [GitHub](https://github.com/99minji) · [Tech Blog](https://frontend-gumji.tistory.com/)
+[Portfolio](https://guminji-portfolio.vercel.app/) · [GitHub](https://github.com/99minji)
 
 ---
 
