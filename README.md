@@ -32,9 +32,6 @@
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-
-자세한 프로젝트와 구현 과정은 **[Portfolio](https://guminji-portfolio.vercel.app/)** 에 정리해 두었습니다.
-
 ---
 
 ### Connect
